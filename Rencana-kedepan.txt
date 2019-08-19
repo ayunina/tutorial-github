@@ -1,0 +1,4 @@
+- Membuat aplikasi inventory management system
+- Membuat aplikasi berbasis framework codeigniter
+- Membuat aplikasi berbasis framework Laravel
+- Membuat design web dengan library react js
